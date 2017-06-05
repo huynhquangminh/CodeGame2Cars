@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ca119ab0ba0859145bb4edb2a32ca635
+timeCreated: 1495551593
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - .VnAvantH
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7b9d22d0df973a74ca579fb513b14c60, type: 3}
+  - {fileID: 12800000, guid: 9031c912dfdc39a4b8eb71286f20d21d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

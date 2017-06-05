@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dd9a7e052ad5763489e88cab4d58fc23
+timeCreated: 1495551594
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VNI-HLThuphap
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 68fab460056533646b0cfe42142d4939, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

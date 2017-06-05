@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f9abe818e8c4d2d45bab840c7e8b3db0
+timeCreated: 1495551595
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VNI-Helve
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6d37b18196d181e4d9731313523586dc, type: 3}
+  - {fileID: 12800000, guid: 87206843c58d03a4f9dffb1ef8bb74a5, type: 3}
+  - {fileID: 12800000, guid: 9f761a7b872dcda4eb18dd9aee129abc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

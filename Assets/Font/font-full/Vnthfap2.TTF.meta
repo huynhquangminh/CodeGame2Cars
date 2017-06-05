@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1d07748df97bb1b4a8d9b3b6f5cdf861
+timeCreated: 1495551587
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VNI-Thufap2
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 085e2223309274148a0e42061aa6545a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fafa48fe0ed60b346acf250d455fec1e
+timeCreated: 1495551595
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VNI-Kun
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 15fa83f5ec7c464448aa89f1b8a8ac76, type: 3}
+  - {fileID: 12800000, guid: 914c77bc7b6941945b5f4469640d4ef8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 15551b9aab2636843a15ab64d308b9c7
+timeCreated: 1495551586
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - .VnBook-Antiqua
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 075ceb804b4382547a74821eee03e979, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

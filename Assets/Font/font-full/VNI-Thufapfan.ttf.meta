@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cc1356b6770ff1945b00977dc1066a32
+timeCreated: 1495551593
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VNI-Thufapfan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b2829dafc1867354ea972d615db15393, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 165972827e4e01d4683d13eb9a577684
+timeCreated: 1495551586
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VNI-Palatin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 122c87bac4aaea64fba3378910a7c7cc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

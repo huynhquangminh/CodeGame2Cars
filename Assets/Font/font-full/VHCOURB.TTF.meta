@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d0ca7f8d6774a404fbfd9cc854b6e5f2
+timeCreated: 1495551593
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - .VnCourier NewH
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 64b3b6cf381707545ab76819a43f5e24, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a4f3b3c7dd9f7b2428f599bc09b99c1d
+timeCreated: 1495551592
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - .VnTimeH
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0df1ef9611f7a71458a30f771f87e027, type: 3}
+  - {fileID: 12800000, guid: 39d052ba79829c14d9dd48a6e0030c39, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

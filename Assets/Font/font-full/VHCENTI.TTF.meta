@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 977c978417e224e418e03903393a1c83
+timeCreated: 1495551591
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - .VnCentury SchoolbookH
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 90daf4d2079ab5b49b4a2eabcca2cb18, type: 3}
+  - {fileID: 12800000, guid: 92ef2d83696911e4aa7981b13685f6ed, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

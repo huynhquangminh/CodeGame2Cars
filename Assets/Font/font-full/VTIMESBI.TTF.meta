@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 484985dec7fe83f45b0c8ebf77509294
+timeCreated: 1495551588
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VNI-Times
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 318b2d721b79aa843aece0ab96e5f05b, type: 3}
+  - {fileID: 12800000, guid: 3103acf8efe74584e8de3dc10a63e7a7, type: 3}
+  - {fileID: 12800000, guid: 0a47893c8ea5cc3408e43d43a5e04249, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

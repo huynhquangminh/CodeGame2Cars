@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7c9e025bcdfcfe640861626fd5f47f5e
+timeCreated: 1495551590
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Vni 25 Ambiance BT Swash
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

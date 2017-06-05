@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 54be8034a0ceddf4c8ebd00d2d2cceb4
+timeCreated: 1495551588
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VNI-Meli
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2395d894dc10ab64381747973e8829c6, type: 3}
+  - {fileID: 12800000, guid: 387f00b4639fc954da485315695e9027, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

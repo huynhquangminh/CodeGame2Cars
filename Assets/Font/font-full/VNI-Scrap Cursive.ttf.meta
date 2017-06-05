@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 69cf0310e4f0d9c4c82e0725463fe6b2
+timeCreated: 1495551589
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Vni 21 Scrap Cursive
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bdcf0ec6c2370a9499becbea0342fa9b
+timeCreated: 1495551592
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - .VnSouthern
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 886918d709911a34a8e52f52ff2393b1, type: 3}
+  - {fileID: 12800000, guid: 64380cda5487b8d45ac4a896bcd9c563, type: 3}
+  - {fileID: 12800000, guid: 85b183be8dff3474c9e7668ff519c268, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

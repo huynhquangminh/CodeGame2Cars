@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 959554fbc4cd6c14e8dc3b51d79f86ea
+timeCreated: 1495551591
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VNI-Murray
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6d668ab43cc122b4e9b18202a3d24c63, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
